@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://webprod1.github.io/Elijah-Literary-Agent/sitemap.xml
-

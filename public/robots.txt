@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elijah-literary-portfolio.michelle-fagan29.chatgpt.site/sitemap.xml

@@ -1,6 +1,6 @@
 # Elijah Literary Representation
 
-React 19, TypeScript, Vite, Tailwind CSS and GSAP. Sixteen static HTML entry points are generated and prerendered for direct GitHub Pages navigation and readable page content.
+React 19, TypeScript, Vite, Tailwind CSS and GSAP. Eighteen main pages and a standalone printable profile use clean directory URLs on GitHub Pages.
 
 ## Development
 
@@ -8,9 +8,9 @@ Run `pnpm install`, then `pnpm dev`. Run `pnpm build` for the complete metadata 
 
 ## Content
 
-`src/content.ts` contains the verified biography, editorial copy, original journal essays and a separate illustrative book collection. The three book concepts are explicitly labeled samples, not represented clients. Replace them only with verified project information and permission to display the covers.
+`src/content.ts` contains the verified biography, editorial copy and original journal essays. `src/reading.ts` contains sourced published books and literary quotations, presented as a reading selection rather than represented clients.
 
-Elijah’s original portrait comes from the Lexicon Ink House agents page and remains unaltered. `public/library.webp` and the seven scenes in `public/images/` are original AI-generated editorial architectural artwork; they do not depict actual offices. Each scene has a locally stored 800px responsive version. Book covers use original CSS artwork. No stock photography is included. CAA is an independent industry reference, not an affiliation claim.
+Elijah’s original portrait comes from the Lexicon Ink House agents page and remains unaltered. `public/library.webp` and seven editorial scenes in `public/images/` are original AI-generated architectural artwork; they do not depict actual offices. Each has an 800px responsive version. The CAA architectural background comes from the user-supplied reference; published book covers come from Project Gutenberg. Details and sources follow below. CAA is an independent industry reference, not an affiliation claim.
 
 The contact form validates input and prepares an encoded mailto link. It does not send, upload or store inquiries. Delivery requires the visitor to send the draft through their email application.
 
@@ -21,3 +21,11 @@ The active public deployment is GitHub Pages at https://webprod1.github.io/Elija
 The historical `.openai/hosting.json` records the original private Sites deployment, which is not the active public host.
 
 
+
+## Current identity and sourced reading material
+
+The displayed professional name is Elijah Cruz, as supplied by the user. The CAA page at /caa/ embeds /printable-profile/ with browser Print / Save as PDF controls. It is an independent profile, not a CAA-issued credential. Its architectural background was extracted from the user-supplied Richard Martinez CAA reference at https://sites.google.com/view/richard-martinez-literary/caa and stored locally as images/caa-building.webp.
+
+The reading shelf now contains published books rather than fictional concepts: Pride and Prejudice (Jane Austen, 1813), The Great Gatsby (F. Scott Fitzgerald, 1925), and Jane Eyre (Charlotte Brontë, 1847). Cover scans and primary text sources are Project Gutenberg ebooks 1342, 64317 and 1260, respectively. Source links and reading-selection context are shown on the website. These are not represented clients or deals. Literary quotations on /perspectives/ are verified excerpts with source attribution; the user chose these in place of unverified client testimonials.
+
+The complete export has 18 main pages plus one standalone printable profile. Old sample-book routes redirect to their replacement reading pages.

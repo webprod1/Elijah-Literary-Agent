@@ -35,3 +35,5 @@ The Book Fair Gallery on Home and About uses two user-supplied images, labeled f
 
 The London gallery image has an additional neutral-color correction version requested by the user to reduce the reddish cast. The original supplied image remains available in public/gallery/london-book-fair-2026.webp.
 
+
+The Film & Culture gallery on Home and About includes three additional user-supplied images: a formal group portrait and two festival portraits. The WebP assets preserve the supplied image content. CSS framing hides the blank right margins on the festival images. Neutral captions describe the compositions without asserting awards, client relationships, or organizational affiliations.

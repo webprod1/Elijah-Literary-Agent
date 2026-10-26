@@ -29,3 +29,6 @@ The displayed professional name is Elijah Cruz, as supplied by the user. The CAA
 The reading shelf now contains published books rather than fictional concepts: Pride and Prejudice (Jane Austen, 1813), The Great Gatsby (F. Scott Fitzgerald, 1925), and Jane Eyre (Charlotte Brontë, 1847). Cover scans and primary text sources are Project Gutenberg ebooks 1342, 64317 and 1260, respectively. Source links and reading-selection context are shown on the website. These are not represented clients or deals. Literary quotations on /perspectives/ are verified excerpts with source attribution; the user chose these in place of unverified client testimonials.
 
 The complete export has 18 main pages plus one standalone printable profile. Old sample-book routes redirect to their replacement reading pages.
+
+The Book Fair Gallery on Home and About uses two user-supplied images, labeled from the visible Frankfurt Book Fair 2026 and London Book Fair 2026 signage. The images are compressed as WebP without regenerating faces or altering their content; portrait framing is applied only in CSS. Captions do not assert meetings, deals, or partnerships.
+

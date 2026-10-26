@@ -32,3 +32,6 @@ The complete export has 18 main pages plus one standalone printable profile. Old
 
 The Book Fair Gallery on Home and About uses two user-supplied images, labeled from the visible Frankfurt Book Fair 2026 and London Book Fair 2026 signage. The images are compressed as WebP without regenerating faces or altering their content; portrait framing is applied only in CSS. Captions do not assert meetings, deals, or partnerships.
 
+
+The London gallery image has an additional neutral-color correction version requested by the user to reduce the reddish cast. The original supplied image remains available in public/gallery/london-book-fair-2026.webp.
+

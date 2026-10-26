@@ -39,3 +39,5 @@ The London gallery image has an additional neutral-color correction version requ
 The Film & Culture gallery on Home and About includes three additional user-supplied images: a formal group portrait and two festival portraits. The WebP assets preserve the supplied image content. CSS framing hides the blank right margins on the festival images. Neutral captions describe the compositions without asserting awards, client relationships, or organizational affiliations.
 
 The Blog at /blog/ presents the six original publishing essays with a featured read, topic filters, title/topic search, and estimated reading times. Blog links appear in the main navigation, footer, homepage preview, and article return links. Existing Journal and article URLs remain available.
+
+The CAA page uses a split architectural hero, Elijah's original portrait card, portfolio barcode, direct official-source link, and working print controls for the embedded independent profile. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.

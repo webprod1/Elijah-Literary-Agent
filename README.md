@@ -1,6 +1,6 @@
 # Elijah Literary Representation
 
-React 19, TypeScript, Vite, Tailwind CSS and GSAP. Nineteen main pages and a standalone printable profile use clean directory URLs on GitHub Pages.
+React 19, TypeScript, Vite, Tailwind CSS and GSAP. Nineteen main pages use clean directory URLs on GitHub Pages.
 
 ## Development
 
@@ -24,11 +24,11 @@ The historical `.openai/hosting.json` records the original private Sites deploym
 
 ## Current identity and sourced reading material
 
-The displayed professional name is Elijah Cruz, as supplied by the user. The CAA page at /caa/ embeds /printable-profile/ with browser Print / Save as PDF controls. It is an independent profile, not a CAA-issued credential. Its architectural background was extracted from the user-supplied Richard Martinez CAA reference at https://sites.google.com/view/richard-martinez-literary/caa and stored locally as images/caa-building.webp.
+The displayed professional name is Elijah Cruz, as supplied by the user. The CAA page at /caa/ presents an independent industry reference and portrait card, not a CAA-issued credential. Its architectural background was extracted from the user-supplied Richard Martinez CAA reference at https://sites.google.com/view/richard-martinez-literary/caa and stored locally as images/caa-building.webp.
 
 The reading shelf now contains published books rather than fictional concepts: Pride and Prejudice (Jane Austen, 1813), The Great Gatsby (F. Scott Fitzgerald, 1925), and Jane Eyre (Charlotte Brontë, 1847). Cover scans and primary text sources are Project Gutenberg ebooks 1342, 64317 and 1260, respectively. Source links and reading-selection context are shown on the website. These are not represented clients or deals. Literary quotations on /perspectives/ are verified excerpts with source attribution; the user chose these in place of unverified client testimonials.
 
-The complete export has 19 main pages plus one standalone printable profile. Old sample-book routes redirect to their replacement reading pages.
+The complete export has 19 main pages. Old sample-book routes redirect to their replacement reading pages.
 
 The Book Fair Gallery on Home and About uses two user-supplied images, labeled from the visible Frankfurt Book Fair 2026 and London Book Fair 2026 signage. The images are compressed as WebP without regenerating faces or altering their content; portrait framing is applied only in CSS. Captions do not assert meetings, deals, or partnerships.
 
@@ -40,4 +40,6 @@ The Film & Culture gallery on Home and About includes three additional user-supp
 
 The Blog at /blog/ presents the six original publishing essays with a featured read, topic filters, title/topic search, and estimated reading times. Blog links appear in the main navigation, footer, homepage preview, and article return links. Existing Journal and article URLs remain available.
 
-The CAA page uses a split architectural hero, Elijah's original portrait card, portfolio barcode, direct official-source link, and working print controls for the embedded independent profile. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.
+The CAA page uses a split architectural hero, Elijah's original portrait card, portfolio barcode, direct official-source link, and independent representation context. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.
+
+The printable profile, embedded frame, and print/download controls have been removed. The former /printable-profile/ URL redirects to /caa/ for existing visitors and is omitted from the sitemap.

@@ -10,7 +10,7 @@ Run `pnpm install`, then `pnpm dev`. Run `pnpm build` for the complete metadata 
 
 `src/content.ts` contains the verified biography, editorial copy and original journal essays. `src/reading.ts` contains sourced published books and literary quotations, presented as a reading selection rather than represented clients.
 
-Elijah’s original portrait comes from the Lexicon Ink House agents page and is retained as public/elijah.webp. The website now uses public/elijah-wide.webp, edited at the user’s request for a wider framing and a clearer curtain background. `public/library.webp` and seven editorial scenes in `public/images/` are original AI-generated architectural artwork; they do not depict actual offices. Each has an 800px responsive version. The CAA architectural background comes from the user-supplied reference; published book covers come from Project Gutenberg. Details and sources follow below. CAA is an independent industry reference, not an affiliation claim.
+Elijah’s original portrait comes from the Lexicon Ink House agents page and is retained as public/elijah.webp. The website now uses public/elijah-black.webp, edited at the user’s request for wider framing and a plain black background; public/elijah-wide.webp retains the previous curtain version. `public/library.webp` and seven editorial scenes in `public/images/` are original AI-generated architectural artwork; they do not depict actual offices. Each has an 800px responsive version. The CAA architectural background comes from the user-supplied reference; published book covers come from Project Gutenberg. Details and sources follow below. CAA is an independent industry reference, not an affiliation claim.
 
 The contact form validates input and prepares an encoded mailto link. It does not send, upload or store inquiries. Delivery requires the visitor to send the draft through their email application.
 
@@ -40,7 +40,7 @@ The Film & Culture gallery on Home and About includes three additional user-supp
 
 The Blog at /blog/ presents the six original publishing essays with a featured read, topic filters, title/topic search, and estimated reading times. Blog links appear in the main navigation, footer, homepage preview, and article return links. Existing Journal and article URLs remain available.
 
-The CAA page uses a split architectural hero, Elijah's original portrait card, portfolio barcode, direct official-source link, and independent representation context. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.
+The CAA page uses a split architectural hero, Elijah's portrait card, portfolio barcode, direct official-source link, and independent representation context. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.
 
 The printable profile, embedded frame, and print/download controls have been removed. The former /printable-profile/ URL redirects to /caa/ for existing visitors and is omitted from the sitemap.
 
@@ -49,3 +49,5 @@ Featured Book to Film (/featured-book-to-film/) is an editorial catalog of 12 pu
 The group portrait now uses gallery/awards-night-group-natural.webp, retouched at the user’s request for more natural facial texture and lighting on Elijah. The original remains at gallery/awards-night-group.webp. Editing brief and provenance are in docs/awards-night-retouch.md.
 
 The wider studio portrait appears on Home, About, the About-page CAA reference, and the dedicated CAA card. The edit uses the original portrait as its identity reference. See docs/elijah-wider-portrait.md for the built-in image-editing prompt.
+
+The active portrait is now public/elijah-black.webp: the wider portrait with a plain black backdrop requested by the user. Earlier versions remain available. Image entrance transitions use a single gentle fade and upward movement, run once per visual, wait for image decoding, include dynamically filtered cards, and respect reduced-motion preferences.

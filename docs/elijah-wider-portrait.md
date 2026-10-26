@@ -1,0 +1,10 @@
+# Wider Elijah portrait
+
+Mode: built-in image generator, edit/outpaint.
+Input: `public/elijah.webp`, retained as the original.
+Selected website asset: `public/elijah-wide.webp` (1024 × 1536).
+User request: pull the framing back slightly and make the existing background clearer.
+
+## Final prompt
+
+Use case: identity-preserving portrait edit and outpainting. Edit the supplied portrait of Elijah Cruz. Primary request: pull the camera back modestly, around 25%, so the face is noticeably less close-up and more of his shoulders, upper arms, suit jacket and torso are visible, while making the existing dark curtain background clear and naturally detailed instead of blurred. Keep the same portrait orientation and approximately 2:3 aspect ratio. Composition: a relaxed professional medium portrait from above the head to around the waist; head including hair should occupy about 28–32% of the picture height, with comfortable space above and beside the head. Preserve the exact recognizable identity, facial proportions, expression, age, eye shape and color, nose, mouth, mustache, goatee, hairstyle, gaze, gentle head angle and natural skin tone of the input. Preserve the same black suit, white shirt, black tie and formal styling. Extend the existing clothing naturally where needed; do not introduce hands, props, accessories or other people. Background: preserve the same charcoal-black curtain backdrop, with clean, sharply resolved vertical folds and subtle real fabric weave. It should remain dark and understated but be in focus, not replaced by an office or another environment. Lighting: soft, natural professional studio light, matching the original face and suit; realistic skin texture and restrained highlights. Use a deep-focus photographic look such as an f/8 studio portrait, with both person and curtain clearly resolved. Avoid background bokeh, smearing, blur, excessive noise reduction, waxy skin, beauty filters, sharpening halos, HDR, illustration, face redesign, a different identity, changed facial geometry or a different expression. Return a single finished portrait, not a collage or before-and-after comparison.

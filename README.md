@@ -10,7 +10,7 @@ Run `pnpm install`, then `pnpm dev`. Run `pnpm build` for the complete metadata 
 
 `src/content.ts` contains the verified biography, editorial copy and original journal essays. `src/reading.ts` contains sourced published books and literary quotations, presented as a reading selection rather than represented clients.
 
-Elijah’s original portrait comes from the Lexicon Ink House agents page and remains unaltered. `public/library.webp` and seven editorial scenes in `public/images/` are original AI-generated architectural artwork; they do not depict actual offices. Each has an 800px responsive version. The CAA architectural background comes from the user-supplied reference; published book covers come from Project Gutenberg. Details and sources follow below. CAA is an independent industry reference, not an affiliation claim.
+Elijah’s original portrait comes from the Lexicon Ink House agents page and is retained as public/elijah.webp. The website now uses public/elijah-wide.webp, edited at the user’s request for a wider framing and a clearer curtain background. `public/library.webp` and seven editorial scenes in `public/images/` are original AI-generated architectural artwork; they do not depict actual offices. Each has an 800px responsive version. The CAA architectural background comes from the user-supplied reference; published book covers come from Project Gutenberg. Details and sources follow below. CAA is an independent industry reference, not an affiliation claim.
 
 The contact form validates input and prepares an encoded mailto link. It does not send, upload or store inquiries. Delivery requires the visitor to send the draft through their email application.
 
@@ -47,3 +47,5 @@ The printable profile, embedded frame, and print/download controls have been rem
 Featured Book to Film (/featured-book-to-film/) is an editorial catalog of 12 published adaptations with title/author/genre/director search, genre filters, book references, official film sources, and verified trailer links where available. The film year and director describe the selected adaptation. This selection does not imply representation or involvement in the adaptations. Cover images are Open Library ISBN cover references (ISBNs in src/adaptations.ts), except Austen and Fitzgerald covers retained from Project Gutenberg. All cover content remains unaltered apart from WebP compression.
 
 The group portrait now uses gallery/awards-night-group-natural.webp, retouched at the user’s request for more natural facial texture and lighting on Elijah. The original remains at gallery/awards-night-group.webp. Editing brief and provenance are in docs/awards-night-retouch.md.
+
+The wider studio portrait appears on Home, About, the About-page CAA reference, and the dedicated CAA card. The edit uses the original portrait as its identity reference. See docs/elijah-wider-portrait.md for the built-in image-editing prompt.

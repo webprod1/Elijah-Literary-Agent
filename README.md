@@ -1,6 +1,6 @@
 # Elijah Literary Representation
 
-React 19, TypeScript, Vite, Tailwind CSS and GSAP. Nineteen main pages use clean directory URLs on GitHub Pages.
+React 19, TypeScript, Vite, Tailwind CSS and GSAP. Twenty main pages use clean directory URLs on GitHub Pages.
 
 ## Development
 
@@ -28,7 +28,7 @@ The displayed professional name is Elijah Cruz, as supplied by the user. The CAA
 
 The reading shelf now contains published books rather than fictional concepts: Pride and Prejudice (Jane Austen, 1813), The Great Gatsby (F. Scott Fitzgerald, 1925), and Jane Eyre (Charlotte Brontë, 1847). Cover scans and primary text sources are Project Gutenberg ebooks 1342, 64317 and 1260, respectively. Source links and reading-selection context are shown on the website. These are not represented clients or deals. Literary quotations on /perspectives/ are verified excerpts with source attribution; the user chose these in place of unverified client testimonials.
 
-The complete export has 19 main pages. Old sample-book routes redirect to their replacement reading pages.
+The complete export has 20 main pages. Old sample-book routes redirect to their replacement reading pages.
 
 The Book Fair Gallery on Home and About uses two user-supplied images, labeled from the visible Frankfurt Book Fair 2026 and London Book Fair 2026 signage. The images are compressed as WebP without regenerating faces or altering their content; portrait framing is applied only in CSS. Captions do not assert meetings, deals, or partnerships.
 
@@ -43,3 +43,5 @@ The Blog at /blog/ presents the six original publishing essays with a featured r
 The CAA page uses a split architectural hero, Elijah's original portrait card, portfolio barcode, direct official-source link, and independent representation context. Global typography uses Lora headings and Manrope text with larger paragraph, navigation, control, and caption sizes. The layout switches to a menu at narrower desktop widths to preserve readable navigation.
 
 The printable profile, embedded frame, and print/download controls have been removed. The former /printable-profile/ URL redirects to /caa/ for existing visitors and is omitted from the sitemap.
+
+Featured Book to Film (/featured-book-to-film/) is an editorial catalog of 12 published adaptations with title/author/genre/director search, genre filters, book references, official film sources, and verified trailer links where available. The film year and director describe the selected adaptation. This selection does not imply representation or involvement in the adaptations. Cover images are Open Library ISBN cover references (ISBNs in src/adaptations.ts), except Austen and Fitzgerald covers retained from Project Gutenberg. All cover content remains unaltered apart from WebP compression.

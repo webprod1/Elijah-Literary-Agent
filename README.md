@@ -45,3 +45,5 @@ The CAA page uses a split architectural hero, Elijah's original portrait card, p
 The printable profile, embedded frame, and print/download controls have been removed. The former /printable-profile/ URL redirects to /caa/ for existing visitors and is omitted from the sitemap.
 
 Featured Book to Film (/featured-book-to-film/) is an editorial catalog of 12 published adaptations with title/author/genre/director search, genre filters, book references, official film sources, and verified trailer links where available. The film year and director describe the selected adaptation. This selection does not imply representation or involvement in the adaptations. Cover images are Open Library ISBN cover references (ISBNs in src/adaptations.ts), except Austen and Fitzgerald covers retained from Project Gutenberg. All cover content remains unaltered apart from WebP compression.
+
+The group portrait now uses gallery/awards-night-group-natural.webp, retouched at the user’s request for more natural facial texture and lighting on Elijah. The original remains at gallery/awards-night-group.webp. Editing brief and provenance are in docs/awards-night-retouch.md.

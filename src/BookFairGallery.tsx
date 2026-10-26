@@ -4,7 +4,7 @@ const photos=[
  {file:'london-book-fair-2026-neutral',title:'The London Book Fair',alt:'Elijah Cruz with London Book Fair 2026 signage',position:'36.8% center'}
 ];
 const filmPhotos=[
- {file:'awards-night-group',title:'Awards-night portrait',alt:'A group portrait in formal evening wear with gold statuettes'},
+ {file:'awards-night-group-natural',title:'Awards-night portrait',alt:'A group portrait in formal evening wear with gold statuettes'},
  {file:'festival-pair',title:'Festival portrait',alt:'Elijah Cruz and a guest in front of a film festival backdrop'},
  {file:'festival-solo',title:'Festival portrait II',alt:'Elijah Cruz wearing glasses and a tuxedo in front of a film festival backdrop'}
 ];

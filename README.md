@@ -57,3 +57,5 @@ The Book Fair Gallery also includes the user-supplied Beijing International Book
 Public affiliation text referring to Lexicon Ink House has been removed from About, Contact, the footer, and page metadata. Decorative numbers have been removed from the About values and both photo galleries; vertical gallery labels have also been removed. Event titles, dates, and locations use larger captions.
 
 The About-page CAA section omits the short context caption beside its heading. Its body text, official-source link, independent-reference note, portrait caption, and barcode labels use larger sizes; the barcode display is enlarged as well.
+
+The reading shelf on Home and Books now features four user-selected books by Ron Harvey, Jean Pupeter, Alan Brizee, and Kitty Caley. Each has a detail page and a direct Amazon link. Amazon edition metadata and cover sources are recorded in docs/reading-shelf-sources.md. Former classic-book detail URLs redirect to Books; their cover assets remain available to the film adaptation catalog.

@@ -1,8 +1,61 @@
-// Published works presented as a reading selection, not represented client titles.
+// Published works selected for the reading shelf; no representation is implied.
 export const readingBooks = [
- {slug:'pride-and-prejudice',title:'Pride and Prejudice',author:'Jane Austen',year:'1813',genre:'Classic fiction',color:'sage',kicker:'MANNERS, PERCEPTION & SECOND CHANCES',cover:'pride-and-prejudice.webp',source:'https://www.gutenberg.org/ebooks/1342',synopsis:'Elizabeth Bennet and Fitzwilliam Darcy encounter the limits of first impressions in a novel of family, class, and marriage.',body:['Jane Austen’s novel follows Elizabeth Bennet as she negotiates family expectations and changes her understanding of Fitzwilliam Darcy. Its social world is shaped by marriage, money, and the stories people tell about one another.','For a reader interested in craft, the novel offers a study in dialogue and shifting perception. Exchanges that initially seem straightforward acquire new meaning as Elizabeth learns more about the people around her.','Included here as a published literary reading selection. Cover and source text: Project Gutenberg. This listing does not indicate representation, a professional relationship with the author, or involvement in publication.']},
- {slug:'the-great-gatsby',title:'The Great Gatsby',author:'F. Scott Fitzgerald',year:'1925',genre:'American fiction',color:'sand',kicker:'DESIRE, MEMORY & THE AMERICAN DREAM',cover:'the-great-gatsby.webp',source:'https://www.gutenberg.org/ebooks/64317',synopsis:'Nick Carraway enters Jay Gatsby’s world of wealth and longing, where an imagined future depends on recovering an elusive past.',body:['Set around New York and Long Island, The Great Gatsby is narrated by Nick Carraway, whose proximity to Jay Gatsby draws him into a story of wealth, desire, and disillusionment.','Its compact form invites close attention to narrative distance, recurring images, and the gap between what people say and what they want. Gatsby’s aspirations are filtered through Nick’s account, making the act of telling part of the novel’s effect.','Included here as a published literary reading selection. Cover and source text: Project Gutenberg. This listing does not indicate representation, a professional relationship with the author, or involvement in publication.']},
- {slug:'jane-eyre',title:'Jane Eyre',author:'Charlotte Brontë',year:'1847',genre:'Gothic & coming-of-age fiction',color:'ink',kicker:'VOICE, INDEPENDENCE & BELONGING',cover:'jane-eyre.webp',source:'https://www.gutenberg.org/ebooks/1260',synopsis:'A young governess tells her own story of hardship, attachment, and moral independence, insisting on the right to choose her future.',body:['Charlotte Brontë’s novel follows Jane from childhood into her work as a governess at Thornfield Hall. Her attachment to Edward Rochester is tested by discoveries that force her to examine the terms on which she can belong.','Jane’s first-person narration makes voice central to the reading experience. Intimate address and reflection give a strong sense of a narrator who is not only remembering events but interpreting their place in her life.','Included here as a published literary reading selection. Cover and source text: Project Gutenberg. This listing does not indicate representation, a professional relationship with the author, or involvement in publication.']}
+  {
+    "slug": "short-stories-to-amuse-baffle-and-educate",
+    "title": "Short Stories to Amuse, Baffle, and Educate",
+    "author": "Ron Harvey",
+    "year": "2026",
+    "genre": "Humor & short stories",
+    "cover": "short-stories-to-amuse-baffle-and-educate.webp",
+    "source": "https://www.amazon.com/dp/B0GJV2LGKN",
+    "synopsis": "An imaginative collection of short stories, poems, and cartoons, filled with wordplay, unexpected turns, and offbeat humor.",
+    "body": [
+      "Ron Harvey brings together prose, poetry, and cartoons in a collection that plays with language and the unexpected. The humor invites readers to pause over a phrase and discover a second meaning.",
+      "The linked Amazon listing provides the edition details and purchasing options."
+    ]
+  },
+  {
+    "slug": "all-the-presidents-dates",
+    "title": "All the Presidents’ Dates",
+    "author": "Jean Pupeter",
+    "year": "2026",
+    "genre": "American history & trivia",
+    "cover": "all-the-presidents-dates.webp",
+    "source": "https://www.amazon.com/dp/197061711X",
+    "synopsis": "A presidential trivia collection combining significant dates, quizzes, maps, and timelines to explore the lives of America’s presidents.",
+    "body": [
+      "Jean Pupeter organizes presidential history around dates, personal milestones, and terms in office. Quizzes and reference material offer different ways to explore connections across presidencies.",
+      "The edition’s full title is All the Presidents’ Dates: The Presidential Trivia Book That Every American Household Should Have. Follow the Amazon link for further book details."
+    ]
+  },
+  {
+    "slug": "the-path-to-excellence",
+    "title": "The Path to Excellence",
+    "author": "Alan Brizee",
+    "year": "2026",
+    "genre": "Sports & personal development",
+    "cover": "the-path-to-excellence.webp",
+    "source": "https://www.amazon.com/dp/B0HJZ1Z449",
+    "synopsis": "A 31-day guide to mental preparation in sport, exploring focus, confidence, and the habits that support performance.",
+    "body": [
+      "Alan Brizee presents daily lessons and exercises for athletes seeking a more focused approach to competition. The book draws on experiences in bowling and golf to discuss preparation and mental discipline.",
+      "The Amazon listing describes the program as a journey toward “the zone.” Explore the linked edition for more information."
+    ]
+  },
+  {
+    "slug": "ultimate-love",
+    "title": "Ultimate Love: A Life of Soul and Searching",
+    "author": "Kitty Caley",
+    "year": "2026",
+    "genre": "Memoir & personal reflection",
+    "cover": "ultimate-love.webp",
+    "source": "https://www.amazon.com/dp/1970617403",
+    "synopsis": "A mother’s memoir of love and loss, tracing a search for meaning through remembrance, faith, writing, and service.",
+    "body": [
+      "Kitty Caley reflects on the loss of her son, Chip, and the work of finding purpose after grief. Her account connects personal remembrance with volunteer work and awareness efforts.",
+      "The linked Amazon page includes the edition’s description and purchasing options."
+    ]
+  }
 ];
 export const perspectives = [
  {quote:'There is no enjoyment like reading!',author:'Jane Austen',work:'Pride and Prejudice',context:'Spoken by Caroline Bingley in Chapter XI; the scene’s irony is part of Austen’s characterization.',source:'https://www.gutenberg.org/cache/epub/1342/pg1342-images.html'},

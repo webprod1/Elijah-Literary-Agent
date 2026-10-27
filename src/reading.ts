@@ -55,6 +55,34 @@ export const readingBooks = [
       "Kitty Caley reflects on the loss of her son, Chip, and the work of finding purpose after grief. Her account connects personal remembrance with volunteer work and awareness efforts.",
       "The linked Amazon page includes the edition’s description and purchasing options."
     ]
+  },
+  {
+    "slug": "wrinkles-dont-hurt",
+    "title": "Wrinkles Don’t Hurt",
+    "author": "Ruth Fishel",
+    "year": "2011",
+    "genre": "Mindfulness & aging",
+    "cover": "wrinkles-dont-hurt.webp",
+    "source": "https://www.amazon.com/dp/0757315909",
+    "synopsis": "Daily meditations on growing older with awareness, finding joy in the present, and approaching each day with a more open outlook.",
+    "body": [
+      "Ruth Fishel offers reflections on mindful aging, bringing attention to the possibilities of everyday life. The book invites readers to meet change with presence, curiosity, and appreciation.",
+      "The full title is Wrinkles Don’t Hurt: Daily Meditations on the Joy of Aging Mindfully. Follow the Amazon link for the edition details and purchasing options."
+    ]
+  },
+  {
+    "slug": "time-for-joy",
+    "title": "Time for Joy: Daily Affirmations",
+    "author": "Ruth Fishel",
+    "year": "1998",
+    "genre": "Daily affirmations & reflection",
+    "cover": "time-for-joy.webp",
+    "source": "https://www.amazon.com/dp/0932194826",
+    "synopsis": "A collection of daily affirmations inviting readers to pause, reflect, and make room for joy, peace, and self-acceptance.",
+    "body": [
+      "Ruth Fishel’s affirmations offer short moments of encouragement that can be read in sequence or opened at any page. The collection centers on recognizing the possibility of joy in everyday life.",
+      "The linked Amazon page provides further information about this edition and purchasing options."
+    ]
   }
 ];
 export const perspectives = [

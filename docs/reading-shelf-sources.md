@@ -49,3 +49,27 @@ Listing: https://www.amazon.com/dp/1970617403
 Cover: https://m.media-amazon.com/images/I/616lIxJB1YL._SL1360_.jpg
 
 Local asset: public/books/ultimate-love.webp
+
+## Wrinkles Don’t Hurt
+
+Author: Ruth Fishel
+
+Edition year: 2011
+
+Listing: https://www.amazon.com/dp/0757315909
+
+Cover: https://m.media-amazon.com/images/I/618wkuOPwgL._SL1500_.jpg
+
+Local asset: public/books/wrinkles-dont-hurt.webp
+
+## Time for Joy: Daily Affirmations
+
+Author: Ruth Fishel
+
+Edition year: 1998
+
+Listing: https://www.amazon.com/dp/0932194826
+
+Cover: https://m.media-amazon.com/images/I/71bm28lr8kL._SL1500_.jpg
+
+Local asset: public/books/time-for-joy.webp

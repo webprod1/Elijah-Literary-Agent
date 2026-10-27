@@ -55,3 +55,5 @@ The active portrait is public/elijah-wide.webp: the wider portrait with the clea
 The Book Fair Gallery also includes the user-supplied Beijing International Book Fair photo (gallery/beijing-international-book-fair.webp). It is displayed in full landscape framing on Home and About, with the existing entrance animation. The caption follows the visible signage without assigning a year.
 
 Public affiliation text referring to Lexicon Ink House has been removed from About, Contact, the footer, and page metadata. Decorative numbers have been removed from the About values and both photo galleries; vertical gallery labels have also been removed. Event titles, dates, and locations use larger captions.
+
+The About-page CAA section omits the short context caption beside its heading. Its body text, official-source link, independent-reference note, portrait caption, and barcode labels use larger sizes; the barcode display is enlarged as well.

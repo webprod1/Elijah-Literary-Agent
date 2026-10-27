@@ -51,3 +51,5 @@ The group portrait now uses gallery/awards-night-group-natural.webp, retouched a
 The wider studio portrait appears on Home, About, the About-page CAA reference, and the dedicated CAA card. The edit uses the original portrait as its identity reference. See docs/elijah-wider-portrait.md for the built-in image-editing prompt.
 
 The active portrait is public/elijah-wide.webp: the wider portrait with the clear curtain background, restored at the user’s request. The plain black variant remains available. Image entrance transitions use a single gentle fade and upward movement, run once per visual, wait for image decoding, include dynamically filtered cards, and respect reduced-motion preferences.
+
+The Book Fair Gallery also includes the user-supplied Beijing International Book Fair photo (gallery/beijing-international-book-fair.webp). It is displayed in full landscape framing on Home and About, with the existing entrance animation. The caption follows the visible signage without assigning a year.

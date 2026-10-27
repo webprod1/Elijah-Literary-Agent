@@ -2,7 +2,7 @@ import fs from 'node:fs';
 const origin='https://webprod1.github.io/Elijah-Literary-Agent/';
 const pages=[
  ['index','Elijah Cruz | Independent Literary Representation','Thoughtful literary representation, editorial development, author advocacy and publishing strategy with Elijah.'],
- ['about','About Elijah Cruz | Literary Representation','Meet Elijah, an independent literary agent and publishing strategist associated with Lexicon Ink House.'],
+ ['about','About Elijah Cruz | Literary Representation','Meet Elijah Cruz, an independent literary agent and publishing strategist focused on manuscript development and author advocacy.'],
  ['representation','Literary Representation | Elijah Cruz','Explore manuscript development, publishing strategy, author advocacy, and a considered approach to literary representation.'],
  ['books','Books | Elijah Cruz Reading Shelf','Explore Pride and Prejudice, The Great Gatsby, and Jane Eyre: published books presented as literary reading references.'],
  ['approach','Our Approach | Elijah Cruz Literary Representation','Discover a collaborative approach to literary development: discover, develop, position, and advance.'],

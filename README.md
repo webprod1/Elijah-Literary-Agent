@@ -63,3 +63,5 @@ The reading shelf on Home and Books now features four user-selected books by Ron
 Ruth Fishel’s Wrinkles Don’t Hurt and Time for Joy: Daily Affirmations have been added to the reading shelf, bringing the selection to six books. The shared grid uses three columns on desktop, two on tablet, and one on mobile. Both new titles have detail pages and direct Amazon links.
 
 The active studio portrait is now public/elijah-upright.webp, taken directly from the user’s supplied upright portrait. Blank side margins were removed for website framing; the face and backdrop were preserved. All four studio-portrait placements are updated. Provenance: docs/elijah-upright-portrait.md.
+
+The active studio portrait is public/elijah-upright-clear.webp (1024 × 1536), an identity-preserving clarity restoration of the supplied upright portrait. The previous 419 × 630 upload remains available. The built-in image editing prompt and provenance are in docs/elijah-upright-clear-portrait.md.

@@ -61,3 +61,5 @@ The About-page CAA section omits the short context caption beside its heading. I
 The reading shelf on Home and Books now features four user-selected books by Ron Harvey, Jean Pupeter, Alan Brizee, and Kitty Caley. Each has a detail page and a direct Amazon link. Amazon edition metadata and cover sources are recorded in docs/reading-shelf-sources.md. Former classic-book detail URLs redirect to Books; their cover assets remain available to the film adaptation catalog.
 
 Ruth Fishel’s Wrinkles Don’t Hurt and Time for Joy: Daily Affirmations have been added to the reading shelf, bringing the selection to six books. The shared grid uses three columns on desktop, two on tablet, and one on mobile. Both new titles have detail pages and direct Amazon links.
+
+The active studio portrait is now public/elijah-upright.webp, taken directly from the user’s supplied upright portrait. Blank side margins were removed for website framing; the face and backdrop were preserved. All four studio-portrait placements are updated. Provenance: docs/elijah-upright-portrait.md.
